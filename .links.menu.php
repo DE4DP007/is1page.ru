@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Шаблон", 
+		"#template", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Описание", 
+		"#description", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"#review", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Возможности", 
+		"#features", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

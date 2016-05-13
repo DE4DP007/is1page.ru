@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"fa-facebook", 
+		"https://facebook.com/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"fa-twitter", 
+		"https://twitter.com/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"fa-linkedin", 
+		"https://ru.linkedin.com/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"fa-instagram", 
+		"https://www.instagram.com", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
