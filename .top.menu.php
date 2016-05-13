@@ -8,15 +8,22 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Шаблон", 
+		"Возможности", 
 		"#template", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Описание", 
+		"О компании", 
 		"#description", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"#features", 
 		Array(), 
 		Array(), 
 		"" 
@@ -29,28 +36,14 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Возможности", 
-		"#features", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Цены", 
-		"#pricing", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Портфолио", 
+		"Наши работы", 
 		"#portfolio", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Блог", 
+		"Новости", 
 		"#blog", 
 		Array(), 
 		Array(), 

@@ -6,7 +6,10 @@ $this->setFrameMode(true);
 			<!-- Start Title -->
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1 title-section">
-				<h4 class="title"><span><?=$arParams["BLOCK_TITLE"]?></span> <?=$arParams["BLOCK_DESCRIPTION"]?></h4>
+				<h4 class="title">
+					<span>это интересно<?//=$arParams["BLOCK_TITLE"]?></span>
+					Новости и события<?//=$arParams["BLOCK_DESCRIPTION"]?>
+				</h4>
 					<div class="line"><i class="icon icon-24 icon-compose"></i></div>
 				</div>
 			</div>

@@ -1,11 +1,18 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Cobian: Битрикс лендинг пейдж");
+$APPLICATION->SetPageProperty("tags", "видеонаблюдение, безопасность");
+$APPLICATION->SetPageProperty("keywords", "безопасность, видеонаблюдение, охранные системы, системы безопасности");
+$APPLICATION->SetPageProperty("description", "Интеллектуальные Системы: Комплексная безопасность");
+$APPLICATION->SetTitle("Интеллектуальные Системы: Комплексная безопасность");
 ?>
 
 	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/about_template.php", Array(), Array("MODE"=>"html"));?>
 
+	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/start_work.php", Array(), Array("MODE"=>"html"));?>
+
 	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/description_template.php", Array(), Array("MODE"=>"html"));?>
+
+    <?$APPLICATION->IncludeFile(SITE_DIR . "inc/features.php", Array(), Array("MODE"=>"html"));?>
 		
 	<?$APPLICATION->IncludeComponent(
 		"bitrix:news.list", 
@@ -75,10 +82,10 @@ $APPLICATION->SetTitle("Cobian: Битрикс лендинг пейдж");
 	);?>
 		
 		
-	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/features.php", Array(), Array("MODE"=>"html"));?>
+
 	
 	<!-- Start Pricing -->
-	<?$APPLICATION->IncludeComponent(
+	<?/*$APPLICATION->IncludeComponent(
 		"bitrix:news.list", 
 		"pricing", 
 		array(
@@ -144,10 +151,10 @@ $APPLICATION->SetTitle("Cobian: Битрикс лендинг пейдж");
 			"SORT_ORDER2" => "ASC"
 		),
 		false
-	);?>
+	);*/?>
 	<!-- End Pricing -->
 
-	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/start_work.php", Array(), Array("MODE"=>"html"));?>
+
 	
 	<!-- Start Gellery -->
 	<?$APPLICATION->IncludeComponent(

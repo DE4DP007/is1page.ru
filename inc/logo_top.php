@@ -1,1 +1,1 @@
-<img src="<?=SITE_TEMPLATE_PATH?>/images/brand/logo.png" class="logo" alt="">
+<img src="<?=SITE_TEMPLATE_PATH?>/images/logosh1.png" class="logo" alt="Интеллектуальные системы" title="Интеллектуальные системы">

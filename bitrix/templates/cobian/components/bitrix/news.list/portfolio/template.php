@@ -12,7 +12,9 @@ $this->setFrameMode(true);
             <!-- Start Title -->
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 title-section">
-                    <h4 class="title"><span><?=GetMessage("PORTFOLIO");?></span><?=GetMessage("PORTFOLIO_DES");?></h4>
+                    <h4 class="title">
+                        <span>наши работы<?//=GetMessage("PORTFOLIO");?></span>
+                        Завершенные объекты безопасности<?//=GetMessage("PORTFOLIO_DES");?></h4>
                     <div class="line"><i class="icon icon-24 icon-image"></i></div>
                 </div>
             </div>
