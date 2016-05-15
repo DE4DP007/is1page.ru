@@ -303,8 +303,6 @@ $APPLICATION->SetTitle("Интеллектуальные Системы: Ком�
 	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/feedback_form.php", Array(), Array("MODE"=>"php"));?>
 	<div class="clearfix"></div>
 
-	<?$APPLICATION->IncludeFile(SITE_DIR . "inc/red_footer.php", Array(), Array("MODE"=>"html"));?>
-	<div class="clearfix"></div>
 
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

@@ -2,28 +2,28 @@
 $aMenuLinks = Array(
 	Array(
 		"fa-facebook", 
-		"https://facebook.com/", 
+		"https://www.facebook.com/groups/1699470966993380/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"fa-twitter", 
-		"https://twitter.com/", 
+		"fa-vk", 
+		"https://vk.com/intellesys", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"fa-linkedin", 
-		"https://ru.linkedin.com/", 
+		"fa-odnoklassniki", 
+		"http://ok.ru/group/54052153458792", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"fa-instagram", 
-		"https://www.instagram.com", 
+		"https://www.instagram.com/intellesys/", 
 		Array(), 
 		Array(), 
 		"" 

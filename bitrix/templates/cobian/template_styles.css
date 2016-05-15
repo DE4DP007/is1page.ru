@@ -1,0 +1,20 @@
+.testimonial .bg-primary{
+    background-color:#65b4a0; /*#ca864e; #e0995e; #76c2af;*/
+}
+
+#footingfeedback .bg-primary{
+    background-color:#ca864e;
+}
+#footingfeedback label {
+    color:#ffffff;
+}
+#footingfeedback .bg-primary {
+    background-color: #795555;
+}
+#post .btn-primary {
+    background-color: #795555;
+    border-color:#5d3939;
+}
+#post .btn-primary:hover {
+    background-color: #5d3939;
+}
