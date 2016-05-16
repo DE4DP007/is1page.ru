@@ -21,7 +21,7 @@ $this->setFrameMode(true);
             <!-- End Title -->
             <!-- Start gallery filter  -->
             <ul class="filter-items">
-                <li data-filter="" class="active">All</li>
+                <li data-filter="" class="active">Все</li>
 				
 				<?foreach($category as $code => $name):?>
                 <li data-filter="<?=$code?>"><?=$name?></li>

@@ -18,3 +18,7 @@
 #post .btn-primary:hover {
     background-color: #5d3939;
 }
+
+#about .feature-one p {
+    text-align: left;
+}
