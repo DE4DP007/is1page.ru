@@ -35,7 +35,7 @@
 				</ul>
 			</div>
 			<div class="col-md-4">
-				<img src="<?=SITE_TEMPLATE_PATH?>/images/features/man.png" class="img-responsive img-feature-two" alt="">
+				<img src="<?=SITE_TEMPLATE_PATH?>/images/features/securr.png" class="img-responsive img-feature-two" alt="">
 			</div>
 			<div class="col-md-4">
 				<ul class="feature-two right">
