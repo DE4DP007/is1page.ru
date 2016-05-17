@@ -114,7 +114,7 @@ IncludeTemplateLangFile(__FILE__);?>
 				</div>
 			</div>
 		</div>
-		<div class="street"></div>
+		<?/*<div class="street"></div>*/?>
 	</section>
 	<!-- End Home -->
 	<div class="clearfix"></div>

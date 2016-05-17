@@ -7,7 +7,7 @@
             <div class="text-center">
                 <a href="#" class="btn btn-success">Читать подробнее</a>
                 <a href="#" class="btn btn-default">Скачать прайслист</a>
-                <a href="#contacts" class="btn btn-primary">Написать нам</a>
+                <a href="#footingfeedback" class="btn btn-primary">Написать нам</a>
             </div>
             <br><br>
 		</div>

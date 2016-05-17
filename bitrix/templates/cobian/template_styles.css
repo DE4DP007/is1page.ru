@@ -1,5 +1,6 @@
 .testimonial .bg-primary{
-    background-color:#65b4a0; /*#ca864e; #e0995e; #76c2af;*/
+    background-color: #468b78; /*#65b4a0;*/
+    /*#ca864e; #e0995e; #76c2af;*/
 }
 
 #footingfeedback .bg-primary{
@@ -22,3 +23,15 @@
 #about .feature-one p {
     text-align: left;
 }
+
+ul.list-author:before,ul.list-author:after {
+    height: 90px !important;
+}
+
+.home-container {
+    background-image: url('images/slider41.jpg') !important;
+    background-position: bottom center !important;
+    padding-bottom: 30px !important;
+}
+.home {padding-top: 0 !important; background-image: none !important;}
+#bannertxt {padding-top:180px !important;}
