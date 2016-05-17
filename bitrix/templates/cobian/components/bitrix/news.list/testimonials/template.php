@@ -17,7 +17,7 @@ $this->setFrameMode(true);
 												<?=$arItem["PREVIEW_TEXT"]?>
 											</p>
 											<footer>
-												<b><?=$arItem["NAME"]?></b><?=(!empty($arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]))?" - ".$arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]:"";?>
+												<b><?=str_replace("-","",$arItem["NAME"])?></b><?=(!empty($arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]))?" ".str_replace("-","",$arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]):"";?>
 											</footer>
 										</blockquote>
 										<img src="<?=SITE_TEMPLATE_PATH?>/images/testimonial/arrow-left.png" class="arrow left" alt="">
@@ -36,7 +36,7 @@ $this->setFrameMode(true);
 												<?=$arItem["PREVIEW_TEXT"]?>
 											</p>
 											<footer class="text-right">
-												<b><?=$arItem["NAME"]?></b><?=(!empty($arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]))?" - ".$arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]:"";?>
+												<b><?=str_replace("-","",$arItem["NAME"])?></b><?=(!empty($arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]))?" ".str_replace("-","",$arItem["DISPLAY_PROPERTIES"]["COMPANY"]["VALUE"]):"";?>
 											</footer>
 										</blockquote>
 										<img src="<?=SITE_TEMPLATE_PATH?>/images/testimonial/arrow-right.png" class="arrow right" alt="">

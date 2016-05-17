@@ -1,0 +1,12 @@
+2016-05-17 17:33:28 -  - exec CUpdateClient::GetUpdatesList
+2016-05-17 17:33:28 -  - exec CUpdateClient::CollectRequestData
+2016-05-17 17:33:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.0.12&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=17560.b2209.dhpage.net&CHHB=17560.b2209.dhpage.net&CSAB=127.0.0.9&CANGZIP=Y&CLIENT_PHPVER=5.4.45&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_clouds=16.0.0&bitm_fileman=16.5.0&bitm_search=16.0.0&bitm_seo=16.0.3&bitm_highloadblock=16.0.2&bitm_perfmon=16.0.0&bitm_socialservices=16.5.3&bitm_translate=14.5.0&bitm_iblock=16.0.4&bitm_compression=16.0.0&bitm_bitrixcloud=16.0.0&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-05-17 17:33:28 -  - exec CUpdateClient::GetHTTPPage
+2016-05-17 17:33:28 -  - TIME GetUpdatesList(request) 0.303 sec
+2016-05-17 17:33:28 -  - exec CUpdateClient::ParseServerData
+2016-05-17 17:33:30 -  - exec CUpdateClient::GetUpdatesList
+2016-05-17 17:33:30 -  - exec CUpdateClient::CollectRequestData
+2016-05-17 17:33:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.0.12&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=17560.b2209.dhpage.net&CHHB=17560.b2209.dhpage.net&CSAB=127.0.0.9&CANGZIP=Y&CLIENT_PHPVER=5.4.45&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_clouds=16.0.0&bitm_fileman=16.5.0&bitm_search=16.0.0&bitm_seo=16.0.3&bitm_highloadblock=16.0.2&bitm_perfmon=16.0.0&bitm_socialservices=16.5.3&bitm_translate=14.5.0&bitm_iblock=16.0.4&bitm_compression=16.0.0&bitm_bitrixcloud=16.0.0&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-05-17 17:33:30 -  - exec CUpdateClient::GetHTTPPage
+2016-05-17 17:33:30 -  - TIME GetUpdatesList(request) 0.22 sec
+2016-05-17 17:33:30 -  - exec CUpdateClient::ParseServerData
