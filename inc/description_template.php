@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-md-7 col-md-push-5 img-desc text-center">
             <br><br>
-			<img src="/bitrix/templates/cobian/images/blueeye.jpg" class="img-rounded" title="Интеллектуальные системы" alt="Интеллектуальные системы">
+			<img src="/bitrix/templates/cobian/images/blueeye.jpg" class="img-responsive img-rounded" title="Интеллектуальные системы" alt="Интеллектуальные системы">
             <br>
             <div class="text-center">
                 <a data-toggle="collapse" data-target="#aboutfulltext" href="#aboutfulltext" class="btn btn-success">Читать подробнее</a>

@@ -35,3 +35,4 @@ ul.list-author:before,ul.list-author:after {
 }
 .home {padding-top: 0 !important; background-image: none !important;}
 #bannertxt {padding-top:180px !important;}
+.img-desc a.btn  { margin-bottom: 5px;}
